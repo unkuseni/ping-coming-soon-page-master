@@ -1,0 +1,45 @@
+@use "./colors" as c;
+@import url("https://fonts.googleapis.com/css2?family=Libre+Franklin:wght@300;600;700&display=swap");
+.body {
+	font-family: "Libre Franklin", sans-serif;
+  font-size: 2em;
+}
+.text {
+  h2 {
+    color: c.$Gray;
+    font-weight: 300;
+    // clamp the font size
+    font-size: clamp(1.5em, 5vw, 3em);
+  }
+ p {
+   color: c.$Dark-blue;
+   font-weight: 300;
+   font-size: clamp(0.8em, 5vw, 1.5em);
+ }
+}
+#emailError {
+  font-size: 0.8em;
+  color: c.$Red;
+}
+.bold {
+  color: c.$Dark-blue;
+  font-weight: 700;
+}
+::placeholder {
+  color: c.$Gray;
+  padding: 10px;
+}
+input[type="text"] {
+  color: c.$Dark-blue;
+  font-size: 0.7em;
+  padding: 0 20px;
+  font-weight: 600;
+}
+button {
+  color: c.$Pale-blue;
+  font-family: 'Libre Franklin', sans-serif;
+  font-weight: 600;
+}
+#copy {
+font-size: 1em;
+}
