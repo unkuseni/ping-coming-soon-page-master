@@ -33,7 +33,8 @@ Users should be able to:
 
 ### Screenshot
 
-![](./screenshot.jpg)
+![](./screenshots/Web%20capture_29-4-2023_17512_127.0.0.1.jpeg)
+![](./screenshots/Web%20capture_29-4-2023_17544_127.0.0.1.jpeg)
 
 Add a screenshot of your solution. The easiest way to do this is to use Firefox to view your project, right-click the page and select "Take a Screenshot". You can choose either a full-height screenshot or a cropped one based on how long the page is. If it's very long, it might be best to crop it.
 
