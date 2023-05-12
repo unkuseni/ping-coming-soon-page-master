@@ -45,8 +45,8 @@ Then crop/optimize/edit your image however you like, add it to your project, and
 
 ### Links
 
-- Solution URL: [Add solution URL here]([https://github.com/unkuseni/ping-coming-soon-page-master])
-- Live Site URL: [Add live site URL here]([https://unkuseni.github.io/ping-coming-soon-page-master/])
+- Solution URL: [solution URL here](https://github.com/unkuseni/ping-coming-soon-page-master)
+- Live Site URL: [live site URL here](https://unkuseni.github.io/ping-coming-soon-page-master/)
 
 ## My process
 
