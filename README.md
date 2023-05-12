@@ -45,8 +45,8 @@ Then crop/optimize/edit your image however you like, add it to your project, and
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://github.com/unkuseni/ping-coming-soon-page-master)
-- Live Site URL: [Add live site URL here](https://www.frontendmentor.io/challenges/ping-single-column-coming-soon-page-5cadd051fec04111f7b848da/hub)
+- Solution URL: [Add solution URL here]([https://github.com/unkuseni/ping-coming-soon-page-master])
+- Live Site URL: [Add live site URL here]([https://unkuseni.github.io/ping-coming-soon-page-master/])
 
 ## My process
 
